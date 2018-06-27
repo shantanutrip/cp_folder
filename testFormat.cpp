@@ -6,7 +6,6 @@ using namespace std;
 //Codechef tends to give number of test cases. 
 //Variable 't' takes care of the number of test cases
 int main(){
-	Boost;
 	int t; 
 	cin>>t;
 	while(t--){
